@@ -1,0 +1,9 @@
+Zadanie 1 (O)
+
+Napisz funkcjê
+char * isElement(char *tab, char znak)
+która sprawdza czy znak znak znajduje siê w napisie tab, i zwraca wskazanie na pierwszy znaleziony element 
+tablicy lub NULL w wypadku nieznalezienia. U¿yj funkcji w programie g³ównym - zadeklaruj tablicê o nazwie 
+napis (o wybranym przez siebie rozmiarze), wczytaj zawartoœæ za pomoc¹ fgets i wywo³aj funkcjê isElement 
+z t¹ tablic¹ i wybranym przez siebie znakiem. W main-ie nale¿y wypisaæ zawartoœæ pamiêci wskazywanej przez 
+zwrócony przez funkcjê wskaŸnik lub komunikat o nieznalezieniu znaku, kiedy zwrócony wskaŸnik na wartoœæ NULL.

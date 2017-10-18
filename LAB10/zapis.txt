@@ -1,0 +1,18 @@
+Data zapisu: Wed Dec 21 14:08:47 2016
+
+
+Tytul: ccc
+Autor: ccc
+Numer Katalogowy: 333
+Cena: 333.00
+---------------------
+Tytul: bbb
+Autor: bbb
+Numer Katalogowy: 222
+Cena: 222.00
+---------------------
+Tytul: aaa
+Autor: aaa
+Numer Katalogowy: 111
+Cena: 111.00
+---------------------
